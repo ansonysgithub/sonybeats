@@ -1,4 +1,4 @@
-# Foobar
+# SonyBeats
 
 SonyBeats is an online platform for selling instrumentals.
 
@@ -13,3 +13,7 @@ git clone https://github.com/ansonysgithub/sonybeats.git
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Live Website
+
+[SonyBeats](https://sonybeats.com/)
